@@ -833,8 +833,18 @@ li {
     margin-top: 10px;
 }
 
+.colonne{
+    display:flex;
+    flex-direction:inherit;
+    justify-content: space-around;
+    margin-top: 50px;
 
+}
 
+.rangee2{
+    margin-left: 275px;
+    margin-right: 275px;
+}
 
 @media (max-width: 1024px) {
     .bloc {
