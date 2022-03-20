@@ -11,11 +11,13 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    color:#FFFFFF;
 }
 
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    color:#FFFFFF;
 }
 
 #page-loading-blocs-notifaction {
@@ -249,7 +251,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    color:#e2824b;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -651,7 +653,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
